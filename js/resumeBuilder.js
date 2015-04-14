@@ -1,1 +1,1 @@
-$("#main").append([JOBAH]);
+$("#main").append("JOBAH");
